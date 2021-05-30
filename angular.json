@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eeducation"
+    }
+  },
+  "defaultProject": "eeducation",
+  "cli": {
+    "analytics": false
+  }
 }
